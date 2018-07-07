@@ -1,0 +1,16 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "tool website :http://cssnano.co/guides/getting-started/",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss-cli": "^5.0.1"
+  }
+}
